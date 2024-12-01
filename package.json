@@ -1,0 +1,22 @@
+{
+  "name": "easy-black",
+  "displayName": "Easy Black",
+  "description": "Beautiful colorful dark theme.",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Easy Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Easy Black-color-theme.json"
+      }
+    ]
+  }
+}
